@@ -1,4 +1,4 @@
-![alt text](https://images.app.goo.gl/d24U4RtPcQfCVJff9)
+![alt text](https://www.sololinux.es/wp-content/uploads/2018/07/scripts-shell-bash-sololinux-730x430.jpg)
 
 
 # Simple shell
