@@ -1,5 +1,5 @@
-![alt text](https://cdn-az.allevents.in/events3/banners/f9a5308926bc6c95eca670e83c0ee0efb7e4fe5431f683e61b8a091b0f57dee9-rimg-w1200-h599-gmir.jpg?v=1563602033)
-)
+![alt text](https://images.app.goo.gl/d24U4RtPcQfCVJff9)
+
 
 # Simple shell
 In this project we'll create a simple UNIX command interpreter in C programming language.
