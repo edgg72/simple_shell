@@ -15,7 +15,6 @@ In this project we'll create a simple UNIX command interpreter in C programming 
 * [Documentation](#Documentation)
     * Download
     * Compilation
-    * Testing
     * Files
 
 * [Extra Information](#Extra-Information)
@@ -89,6 +88,21 @@ Your shell will be compiled this way:
 ##|File|Description
 ---|---|---
 1|[README.md](./README.md)|Readme
+2|[AUTHORS](./AUTHORS)|Authors
+3|[_calloc.c](./_calloc.c)|Function that allocates memory for an array
+4|[_strdup.c](./_strdup.c)|Function returns a pointer to a new string which is a duplicate of the string str
+5|[env.c](./env.c)|Function that prints the environment
+6|[exec.c](./exec.c)|Function that creates a new process
+7|[getpath.c](./exec.c)|Function that returns path
+8|[header.h](./header.h)|Header file
+9|[man_1_simple_shell](./man_1_simple_shell)|Manual simple shell
+10|[readline.c](./readline.c)|Function that creates tokens of directory
+11|[shell.c](./shell.c)|Function entry point
+12|[signal_hand.c](./signal_hand.c)|Function handles ctrl c
+13|[stat.c](./stat.c)|Function that verifies validity of file
+14|[str_concat.c](./stat.c)|Function that concatenates two strings
+15|[strcmp.c](./strcmp.c)|Function that compares two strings.
+
 
 
 ## Extra information
@@ -98,9 +112,6 @@ Your shell will be compiled this way:
 **Read or watch:**
 * [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
 * [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
-
-**man or help:**
-* `sh` (Run `sh` as well)
 
 ## Authors
 
